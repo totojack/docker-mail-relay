@@ -1,7 +1,7 @@
 Postfix Mail Relay
 ======================
 
-Forked by [alterrebe/postfix-relay](https://hub.docker.com/r/alterrebe/postfix-relay/)
+Forked from [alterrebe/postfix-relay](https://github.com/alterrebe/docker-mail-relay)
 
 Contains:
 
